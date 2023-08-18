@@ -21,3 +21,30 @@ footer {
 nav {
     text-align: right;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size:30px 
+}
+
+.about-me {
+    padding: 50px;
+}
+
+.work-history{
+    padding: 50px;
+}
+
+.my-projects{
+    padding: 50px;
+}
+
+.contact-info {
+    border: 5px solid darkblue;
+    border-radius: 10px;
+    text-align: center;
+}
