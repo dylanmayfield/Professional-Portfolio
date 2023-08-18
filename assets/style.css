@@ -10,12 +10,12 @@ header {
 
 main {
     background-color: #b1abab;
-    padding: 0
-    ;
+    padding: 10px;
 }
 
 footer {
     background-color: lightblue;
+    height: 50px;
 }
 
 nav {
@@ -50,8 +50,26 @@ h2 {
     margin: 10px 100px;
     border-radius: 10px;
     text-align: center;
+    display: block;
+   
 }
 
 .card {
     display: block;
+    padding: 30px;
+    border-style: solid;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 10px;
+    color: black;
+    margin: 0 10px;
+}
+
+ul {
+    list-style-type: none;
 }
