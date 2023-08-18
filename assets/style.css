@@ -20,10 +20,12 @@ footer {
 
 nav {
     text-align: right;
+    display: block;
 }
 
 h1 {
     font-size: 40px;
+    padding: 10px;
 }
 
 h2 {
@@ -50,6 +52,6 @@ h2 {
     text-align: center;
 }
 
-#project-1 {
-    border: 5px solid black;
+.card {
+    display: block;
 }
