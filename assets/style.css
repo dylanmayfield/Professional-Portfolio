@@ -44,7 +44,12 @@ h2 {
 }
 
 .contact-info {
-    border: 5px solid darkblue;
+    border: 5px solid black;
+    margin: 10px 100px;
     border-radius: 10px;
     text-align: center;
+}
+
+#project-1 {
+    border: 5px solid black;
 }
