@@ -83,3 +83,8 @@ a {
     text-decoration: none;
 }
 
+#challenge-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
