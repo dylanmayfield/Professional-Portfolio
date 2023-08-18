@@ -62,8 +62,6 @@ h2 {
     margin: 10px;
     text-align: center;
     height: 100px;
-   
-    
 }
 
 nav li {
@@ -84,7 +82,10 @@ a {
 }
 
 #challenge-1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  bottom: 25px;
+  overflow: hidden;
 }
