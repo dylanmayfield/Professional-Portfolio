@@ -81,7 +81,7 @@ a {
     text-decoration: none;
 }
 
-#challenge-1 {
+#challenge-1, #superbad {
   display: flex; 
   align-items: center;
   justify-content: center;
